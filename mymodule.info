@@ -1,0 +1,8 @@
+name = mymodule
+description = "module for make."
+package = expertime
+core = 7.x
+
+
+
+
